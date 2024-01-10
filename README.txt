@@ -11,9 +11,9 @@ Hey there! I'm Amul Patil, a passionate about data and its application in real w
 
 I enjoy working with:
 
-- Programming Languages: List languages you specialize in
-- Frameworks and Libraries: Mention tools you frequently use
-- Other Skills: Any additional skills or technologies you work with
+- Programming Languages: R,Python
+- Frameworks and Libraries: Pytorch,Pyspark,MLFLOW,Keras
+- Other Skills: Tableau,RestApi
 
 ## How to Reach Me
 
