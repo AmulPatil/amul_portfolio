@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Amul Patil, a passionate about data and its application in real world based in Bengaluru. I love [Describe your passion or interests] and enjoy Reading books.
+Hey there! I'm Amul Patil, a passionate about data and its application in real world based in Bengaluru. I enjoy Reading books.
 
 ## What You'll Find Here
 
