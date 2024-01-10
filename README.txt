@@ -19,8 +19,8 @@ I enjoy working with:
 
 Feel free to reach out to me on:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: patil.amul002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/amul-patil-3a582727/
 
 ## Contributing
 
